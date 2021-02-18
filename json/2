@@ -8,6 +8,7 @@
   Date: August 30, 2020\n\n
   Size inches: 30' x 40'\n\n
   Size_metric: 76 x 102 cm\n\n
+  Custody: Artist, NS, Canada\n\n
   Edition: 1/1\n\n\n
     
   Find more in https://taavilehtonen.com\n\n\n
@@ -28,11 +29,11 @@
       "trait_type": "size_inches",
       "value": "30' x 40'"
     },
-	{
+    {
       "trait_type": "size_metric",
       "value": "76 x 102 cm"
     },
-	{
+    {
       "trait_type": "medium",
       "value": "Acrylic on Canvas"
     },
@@ -43,6 +44,10 @@
     {
       "trait_type": "mint_date",
       "value": "Feb-07-2021"
+    },
+    {
+      "trait_type": "custody",
+      "value": "Artist, NS, Canada"
     },
     {
       "trait_type": "edition",
