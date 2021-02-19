@@ -8,6 +8,7 @@
   Date: July 14, 2020\n\n
   Size inches: 30' x 60'\n\n
   Size_metric: 76 x 150 cm\n\n
+  Custody: Artist, NS, Canada\n\n
   Edition: 1/1\n\n\n
     
   Find more in https://taavilehtonen.com\n\n\n
@@ -44,6 +45,10 @@
     {
       "trait_type": "mint_date",
       "value": "Feb-07-2021"
+    },
+    {
+      "trait_type": "custody",
+      "value": "Artist, NS, Canada"
     },
     {
       "trait_type": "edition",
