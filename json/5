@@ -1,0 +1,44 @@
+{
+  "description": "Taavi Lehtonen is an artist who uses traditional methods and makes his art available on Ethereum.\n\n\nThe owner of the NFT token owns the original painting. No computer generated art!\n\n\nArtist: Taavi Lehtonen\n\nMedium: Acrylic on Canvas\n\nDate: December 15, 2020\n\nSize inches: 36' x 48'\n\nSize metric: 91 x 122 cm\n\nFind more in https://taavilehtonen.com\n\n\nHi-res image: https://bit.ly/3umsmHn",
+  "external_url": "https://taavilehtonen.com",
+  "image": "https://raw.githubusercontent.com/BlockTimeWorld/cryptic/main/images/Attention_1280.jpg",
+  "name": "Attention",
+  "attributes": [
+    {
+      "trait_type": "artist",
+      "value": "Taavi Lehtonen"
+    },
+    {
+      "trait_type": "contact",
+      "value": "https://taavilehtonen.com"
+    },
+    {
+      "trait_type": "size_inches",
+      "value": "36' x 48'"
+    },
+	{
+      "trait_type": "size_metric",
+      "value": "91 x 122 cm"
+    },
+	{
+      "trait_type": "medium",
+      "value": "Acrylic on Canvas"
+    },
+    {
+      "trait_type": "dated",
+      "value": "December 15, 2020"
+    },
+    {
+      "trait_type": "mint_date",
+      "value": "April-04-2021"
+    },
+    {
+      "trait_type": "custody",
+      "value": "Artist, NS, Canada"
+    },
+    {
+      "trait_type": "edition",
+      "value": "1/1"
+    }
+  ]
+}
