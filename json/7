@@ -2,7 +2,7 @@
   "description": "Taavi Lehtonen is an artist who uses traditional methods and makes his art available on Ethereum.\n\n\nThe owner of the NFT token owns the original painting. No computer generated art!\n\n\nArtist: Taavi Lehtonen\n\nMedium: Acrylic on Canvas\n\nDate: Oct 9, 2021\n\nSize inches: 32' x 55'\n\nSize metric: 80 x 140 cm\n\nFind more in https://taavilehtonen.com\n\n\nHi-res image: https://bit.ly/3l8e9LV",
   "external_url": "https://taavilehtonen.com",
   "image": "https://raw.githubusercontent.com/BlockTimeWorld/cryptic/main/images/The_Game_We_Play_1280.png",
-  "name": "Crossroads",
+  "name": "The Game We Play",
   "attributes": [
     {
       "trait_type": "artist",
